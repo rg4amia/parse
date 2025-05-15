@@ -46,4 +46,4 @@ Chaque ligne contient :
 - Les fichiers médias ou pièces jointes sont signalés dans le texte (ex : `<Media omitted>`).
 
 ## Auteur
-Script généré automatiquement avec l'aide de l'IA.
+R4GAMIA
